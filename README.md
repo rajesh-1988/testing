@@ -1,2 +1,5 @@
-# testing
-php sample
+<?php 
+
+echo "Hello World";
+
+?>
